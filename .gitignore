@@ -1,0 +1,4 @@
+node_modules/
+_convert/*.xml
+_convert/_output/*.txt
+.idea/
