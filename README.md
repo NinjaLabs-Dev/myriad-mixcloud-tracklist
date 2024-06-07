@@ -1,5 +1,9 @@
 # Myriad 5 Mixcloud tracklist compiler
 Simple script to convert any Myriad 5 files within `_convert` into Mixcloud tracklist friendly txt in `_convert/_output`
+
+> [!WARNING]
+> This project is now depercated, I no-longer use Myriad, this likely will still work however use at your own risk.
+
 ### Requirements
 - [Node.JS](https://nodejs.org/en/) >= 12.18.4
 
